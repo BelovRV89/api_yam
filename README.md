@@ -58,7 +58,7 @@ API YaMDb позволяет работать со следующими сущн
 
   - Клонировать репозиторий, перейти в директорию с проектом:
 ```
-git clone git@github.com:Excellent-84/api_yamdb.git
+git clone git@github.com/BelovRV89/api_yam
 ```
   - Установить виртуальное окружение, активировать его:
 ```
